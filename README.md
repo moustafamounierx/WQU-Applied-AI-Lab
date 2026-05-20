@@ -11,3 +11,9 @@ This project focuses on handling image datasets, transforming raw pixel data int
 * Explored binary and multi-class image datasets.
 * Managed data sizing and converted PIL images into uniform Tensors.
 * Prepared structured data pipelines for Deep Learning model training.
+
+------------------
+
+##  Course Index & Navigation
+*  **Module 1:** [Image Processing & Tensors](./011-image-as-data%20%281%29.ipynb) *(Main Code File)*
+*  **Module 2:** [Debugging & Fix My Code](./Exercise-2/) *(Folder containing debugging exercises & documentation)*
