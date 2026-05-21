@@ -1,19 +1,32 @@
-# Image Processing & Data Representation with PyTorch
+# WorldQuant University - Applied AI Lab Portfolio 🚀
 
-This project focuses on handling image datasets, transforming raw pixel data into PyTorch Tensors, and calculating mean channel values for computer vision models. Developed as part of the Applied AI program at WorldQuant University.
+Welcome to my portfolio! This repository contains a comprehensive collection of end-to-end Machine Learning and Data Engineering projects completed during the **Applied AI Lab program at WorldQuant University**. 
 
-##  Tech Stack & Skills
-* **Framework:** PyTorch (Tensors, Device Management)
-* **Libraries:** PIL (Python Imaging Library), NumPy
-* **Core Concepts:** Image-as-Data transformation, Binary & Multi-class data structures, Data normalization.
+As a **Mechatronics Engineering graduate** transitioning into Data Engineering and Data Science, these projects demonstrate my ability to build data pipelines, analyze complex datasets, and deploy machine learning models to solve real-world problems.
 
-##  Project Overview
-* Explored binary and multi-class image datasets.
-* Managed data sizing and converted PIL images into uniform Tensors.
-* Prepared structured data pipelines for Deep Learning model training.
+---
 
-------------------
+## 📂 Repository Structure
 
-##  Course Index & Navigation
-*  **Module 1:** [Image Processing & Tensors](./011-image-as-data%20%281%29.ipynb) *(Main Code File)*
-*  **Module 2:** [Debugging & Fix My Code](./Exercise-2/) *(Folder containing debugging exercises & documentation)*
+Each folder contains a standalone project with its respective datasets, source code, and analysis:
+
+1. **`011-image-as-data`**
+   * **Description:** Focused on handling image datasets, transforming raw pixel data into PyTorch Tensors, and calculating mean channel values for computer vision models.
+   * **Tech Stack:** Python, PyTorch, NumPy, Image Processing.
+
+2. **`013-binary-classification`**
+   * **Description:** Developed a binary classification model to predict categorical outcomes and evaluated performance using precision, recall, and ROC-AUC curves.
+   * **Tech Stack:** Python, Pandas, Scikit-learn, Machine Learning (Classification), HTML Visualization.
+
+---
+
+## 🛠️ Technical Skills Demonstrated
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL.
+* **Data Engineering:** Data Cleaning, Feature Engineering, ETL pipelines.
+* **Machine Learning:** Regression, Binary Classification, Model Evaluation, Computer Vision Basics.
+
+---
+
+## 📬 Connect with Me
+* **LinkedIn:** https://www.linkedin.com/in/moustafa-mounier-ds/
+* **Email:** moustafamounierx@gmail.com
