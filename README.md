@@ -6,7 +6,7 @@ As a **Mechatronics Engineering graduate** transitioning into Data Engineering a
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 Each folder contains a standalone project with its respective datasets, source code, and analysis:
 
@@ -18,15 +18,19 @@ Each folder contains a standalone project with its respective datasets, source c
    * **Description:** Developed a binary classification model to predict categorical outcomes and evaluated performance using precision, recall, and ROC-AUC curves.
    * **Tech Stack:** Python, Pandas, Scikit-learn, Machine Learning (Classification), HTML Visualization.
 
+### 3.  `014-multiclass-classification`
+* **Description:** Developed a multiclass classification model to predict outcomes across multiple distinct categories and evaluated model performance using multi-class evaluation matrices.
+* **Tech Stack:** Python, Pandas, Scikit-Learn, Machine Learning (Multiclass Classification), HTML Visualization.
+
 ---
 
-## 🛠️ Technical Skills Demonstrated
+##  Technical Skills Demonstrated
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL.
 * **Data Engineering:** Data Cleaning, Feature Engineering, ETL pipelines.
 * **Machine Learning:** Regression, Binary Classification, Model Evaluation, Computer Vision Basics.
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 * **LinkedIn:** https://www.linkedin.com/in/moustafa-mounier-ds/
 * **Email:** moustafamounierx@gmail.com
